@@ -48,11 +48,4 @@ AgroPredict AI is an advanced machine learning-powered solution designed to pred
    - Models and preprocessing pipeline serialized using `pickle`.
    - Real-time predictions available via the Streamlit app.
 
----
 
-## **How to Run the Project**
-### **Prerequisites**
-- Python 3.8 or later
-- Required Python libraries:
-  ```bash
-  pip install -r requirements.txt
